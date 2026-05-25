@@ -1,0 +1,6 @@
+{
+  "name": "流浪猫狗生老病死全周期治理系统",
+  "description": "流浪猫狗生老病死全周期安全治理、档案审批、回访监管、信用体系、在线沟通等全业务周期的监管治理后台终端。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
